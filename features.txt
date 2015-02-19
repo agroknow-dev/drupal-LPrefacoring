@@ -1,0 +1,8 @@
+=======Find Features=====
+
+Feattures generated modules are under modules/features/
+
+ landportal/
+ ft_land_portal_p1/
+ feature_land_portal_2/
+
