@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the feature land portal 1 feature.
+ */
+
+include_once 'ft_land_portal_p1.features.inc';
